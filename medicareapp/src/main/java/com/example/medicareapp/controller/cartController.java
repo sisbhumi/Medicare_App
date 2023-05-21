@@ -39,7 +39,6 @@ public class cartController {
 		cart.setName(name);
 		cart.setPrice(price);
 		this.cartRepo.save(cart);
-		 
 		return ResponseEntity.ok(cart);
 		
 	}

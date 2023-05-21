@@ -7,7 +7,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Button from '@mui/material/Button';
-import Home from './admin/Home';
+import Home from './User/Home';
 import SignUp from './User/SignUp';
 
 function ResponsiveAppBar() {
